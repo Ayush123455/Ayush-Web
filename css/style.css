@@ -1,0 +1,213 @@
+
+
+.top-box{
+    background-color: #b5faed;
+    position: relative;
+    padding-top: 100px;
+    padding-right: 100px;
+    
+    
+    
+   
+}
+#ayush{
+    margin-left: 200px;
+}
+#moun{
+    margin-left: 300px;
+    margin-top: 110px;
+
+}
+.head{
+    text-align: center;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    
+    
+}
+.para{
+    text-align: center;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-size: larger;
+    
+}
+.cartoon{
+    border-radius: 2000px;
+   margin-left: 400px;
+   margin-right: 0px;
+  
+  
+}
+
+
+.bottom-cloud{
+    margin-left: 70px;
+    
+}
+#top-cloud{
+    padding-left: 750px;
+   margin-left: 10px;
+   margin-right: 100px;
+   
+}
+ul {
+    list-style-type: none;
+    height: 30px;
+    margin-left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 36px;
+    
+
+    
+    
+}
+
+
+    
+
+
+li{
+    float: left;
+    border-right: 1px solid black;
+    position: relative;
+    top: 10px;
+    
+}
+a{
+    display: block;
+    padding:1px 40px;
+    text-decoration: none;
+color: deeppink;
+    
+}
+nav{
+    background-color:#89fcfc ;
+    position: fixed;
+    margin-bottom: 100px;
+    
+}
+a:hover{
+    background-color: #82f8f8;
+}
+.active a{
+    background-color: #82f8f8;
+}
+.active {
+    border-left: 1px solid black;
+}
+
+.middle-box{
+    margin-top: 30px;
+    background-color: white;
+    
+    border-left-width: 100px;
+    margin-right: 0px;
+    
+}
+#hi{
+    padding-top: 150px;
+    margin-left: 500px;
+    font-family:  sans-serif;
+    position: sticky;
+    
+   
+    
+
+}
+#content{
+    height: 50px;
+    font-size: 20px;
+    font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+    margin-bottom: 150px;
+    margin-left: 350px;
+   
+    margin-top: 0px;
+
+}
+.web{
+    border-radius: 200px;
+}
+.bottom-box{
+    background-color:  white; 
+    margin-top: 150px;
+    
+    
+    
+    
+    
+    
+}
+#help{
+    text-align: center;
+}
+.hello{
+    width: 200px;
+    margin-right: 400px;
+    float: right;
+    padding-top: 150px;
+    
+    
+}
+.skills{
+    text-align: center;
+    padding-top: 100px ;
+}
+.htmlcss-logo{
+    margin-left: 80px;
+    width: 300px;
+    border-radius: 500px;
+    float: right;
+    
+}
+.skill-content{
+    float: right;
+    margin-left: 30px;
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+.span{
+    padding-bottom: 0px;
+}
+.table{
+    float: right;
+    margin-top: 10px;
+    position: absolute;
+}
+.star{
+    padding-left: 50px;
+}
+.second-star{
+    padding-left: 65.9px;
+}
+.third-star{
+    padding-left: 5px;
+}
+.freelance{
+    text-align: center;
+}
+.freelance-content{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+
+}
+.form{
+    margin-left: 570px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(253, 82, 15);
+    font-size: 20px;
+    font-weight: 500;
+    border: 3px solid red;
+    
+    
+}
+.form:hover{
+    box-shadow: 3px 3px black;
+}
+
+
