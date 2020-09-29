@@ -1,10 +1,11 @@
 
 
 .top-box{
+    width: 1325px;
     background-color: #b5faed;
     position: relative;
     padding-top: 100px;
-    padding-right: 100px;
+                         
     
     
     
@@ -155,7 +156,7 @@ a:hover{
     padding-top: 100px ;
 }
 .htmlcss-logo{
-    margin-left: 80px;
+    margin-left: 20px;
     width: 300px;
     border-radius: 500px;
     float: right;
@@ -209,5 +210,7 @@ a:hover{
 .form:hover{
     box-shadow: 3px 3px black;
 }
+
+
 
 
